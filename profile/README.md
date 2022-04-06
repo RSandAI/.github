@@ -1,3 +1,5 @@
+RSandAI: REMOTE SENSIND AND ARTIFICIAL INTELLIGENCE GROUP GITHUB PAGE
+
 This github page contains the research conducted under supervision of Prof. Elif SERTEL at Istanbul Technical University.
 
 We share our codes and papers on Geospatial Artificial Intelligence topic specifically on Remote Sensing Data and Historical Maps.
