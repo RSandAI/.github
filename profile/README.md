@@ -12,7 +12,7 @@ You can also reach us from "remotesensingandai@gmail.com" or directly e-mail to 
 
 # Published Articles and Papers
 
-	Ekim, B. and Sertel, E.  (2021). Deep Neural Network Ensembles for Remote Sensing Land Cover and Land Use Classification, International Journal of Digital Earth, https:doi.org/10.1080/17538947.2021.1980125.
+	Ekim, B. and Sertel, E.  (2021). Deep Neural Network Ensembles for Remote Sensing Land Cover and Land Use Classification, International Journal of Digital Earth, https://doi.org/10.1080/17538947.2021.1980125.
 
 	Wang, P. and Sertel, E. (2021). Channel-spatial Attention-based Pan-sharpening of Very High-resolution Satellite Images, Knowledge-Based Systems, vol. 229, 107324, https://doi.org/10.1016/j.knosys.2021.107324.
 
