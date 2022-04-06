@@ -30,4 +30,6 @@ You can also reach us from "remotesensingandai@gmail.com" or directly e-mail to 
 
 	Tuna, C., Ünal, G., & Sertel, E., (2018). Single-frame super resolution of remote-sensing images by convolutional neural networks. International Journal of Remote Sensing, vol.39, no.8, 2463-2479. https://doi.org/10.1080/01431161.2018.1425561.
 
+	Tuna, C., Akoguz, A., Unal, G., and Sertel, E. “Resolution enhancement of tri-stereo remote sensing images by super resolution methods”. SPIE Remote Sensing Conference, 26-29 September 2016, Edinburgh, UK. https://doi.org/10.1117/12.2241176.
+
 
