@@ -22,6 +22,12 @@ Wang, P., Bayram, B. & Sertel, E. (2021). Super-Resolution of Remotely Sensed Da
 
 Özçelik, F., Algancı, U., Sertel, E., & Ünal, G., (2021). Rethinking CNN-Based Pan-sharpening: Guided Colorization of Panchromatic Images via GANs. IEEE Transactions on Geoscience And Remote Sensing, vol.59, no.4, 3486-3501. https://doi.org/10.1109/TGRS.2020.3010441.  
 
-Wang, P., Alganci, U. & Sertel, E, (2021). Comparative Analysis on Deep Learning based Pan-sharpening of Very High-Resolution Satellite Images. International Journal of Environment and Geoinformatics, vol. 8, no. 2, 150-165. https://doi.org/10.30897/ijegeo.834760
+Wang, P., Alganci, U. & Sertel, E, (2021). Comparative Analysis on Deep Learning based Pan-sharpening of Very High-Resolution Satellite Images. International Journal of Environment and Geoinformatics, vol. 8, no. 2, 150-165. https://doi.org/10.30897/ijegeo.834760.
+
+Ekim, B. and Sertel, E., (2021). A Multi-Task Deep Learning Framework for Building Footprint Segmentation, International Geoscience and Remote Sensing Symposium (IGARSS-2021), 11-16 July, Brussels, Belgium.
+
+Algancı, U., Soydas, M., & Sertel, E., (2020). Comparative Research on Deep Learning Approaches for Airplane Detection from Very High-Resolution Satellite Images. Remote Sensing, vol.12, no.3. https://doi.org/10.3390/rs12030458. 
+
+Tuna, C., Ünal, G., & Sertel, E., (2018). Single-frame super resolution of remote-sensing images by convolutional neural networks. International Journal of Remote Sensing, vol.39, no.8, 2463-2479. https://doi.org/10.1080/01431161.2018.1425561. 
 
 
