@@ -12,11 +12,13 @@ You can also reach us from "remotesensingandai@gmail.com" or directly e-mail to 
 
 # Published Articles and Papers
 
+	Bakirman, T., Komurcu, I. & Sertel, E., (2022)  Comparative analysis of deep learning-based building extraction methods with the new VHR Istanbul dataset, Experts Systems with Applications, vol. 202, 117346, https://doi.org/10.1016/j.eswa.2022.117346.
+
 	Ekim, B. and Sertel, E.  (2021). Deep Neural Network Ensembles for Remote Sensing Land Cover and Land Use Classification, International Journal of Digital Earth, https://doi.org/10.1080/17538947.2021.1980125.
 
 	Wang, P. and Sertel, E. (2021). Channel-spatial Attention-based Pan-sharpening of Very High-resolution Satellite Images, Knowledge-Based Systems, vol. 229, 107324, https://doi.org/10.1016/j.knosys.2021.107324.
 
-	Ekim, B, Sertel, E., Karadayi, M. E. (2021). Automatic Road Extraction from Historical Maps using Deep Learning Techniques: A Regional Case Study of Turkey in a German World War II Map, ISPRS International Journal of Geo-Information, vol. 10, no.8, 492; https://doi.org/10.3390/ijgi10080492.
+	Ekim, B, Sertel, E. & Karadayi, M. E. (2021). Automatic Road Extraction from Historical Maps using Deep Learning Techniques: A Regional Case Study of Turkey in a German World War II Map, ISPRS International Journal of Geo-Information, vol. 10, no.8, 492; https://doi.org/10.3390/ijgi10080492.
 
 	Wang, P., Bayram, B. & Sertel, E. (2021). Super-Resolution of Remotely Sensed Data Using Channel Attention Based Deep Learning Approach. International Journal of Remote Sensing, vol.42, no.16, 6050-6067. https://doi.org/10.1080/01431161.2021.1934598.
 
