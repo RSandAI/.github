@@ -12,7 +12,13 @@ You can also reach us from "remotesensingandai@gmail.com" or directly e-mail to 
 
 # Published Articles and Papers
 
-	Bakirman, T., Komurcu, I. & Sertel, E., (2022)  Comparative analysis of deep learning-based building extraction methods with the new VHR Istanbul dataset, Experts Systems with Applications, vol. 202, 117346, https://doi.org/10.1016/j.eswa.2022.117346.
+	Wang, P. and Sertel, E. (2023). Multi-Frame Super-resolution of Remote Sensing Images using attention-based GAN models, 110387, Knowledge-Based Systems, https://doi.org/10.1016/j.knosys.2023.110387.
+
+	Wang, P., Bayram, B. & Sertel, E., (2022). A comprehensive review on Deep Learning based Remote Sensing Image Super-Resolution Methods, Earth-Science Reviews, Invited Review Article, vol.232,  104110, https://doi.org/10.1016/j.earscirev.2022.104110.
+
+ Bakirman, T., Komurcu, I. & Sertel, E., (2022)  Comparative analysis of deep learning-based building extraction methods with the new VHR Istanbul dataset, Experts Systems with Applications, vol. 202, 117346, https://doi.org/10.1016/j.eswa.2022.117346.
+
+ Sertel, E., Ekim, B., Osgouei, P. E., & Kabadayi, M.E., (2022). Land Use and Land Cover Mapping Using Deep Learning Based Segmentation Approaches and VHR Worldview-3 Images, Remote Sensing, 2022, 14, 4558, https://doi.org/10.3390/rs14184558. 
 
 	Ekim, B. and Sertel, E.  (2021). Deep Neural Network Ensembles for Remote Sensing Land Cover and Land Use Classification, International Journal of Digital Earth, https://doi.org/10.1080/17538947.2021.1980125.
 
