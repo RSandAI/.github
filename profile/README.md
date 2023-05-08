@@ -6,7 +6,7 @@ We  have been sharing repos of our ongoing activities that include our codes and
 
 We have been collaborating with several researchers including Academics, Master/PhD students, and Post-Doctoral fellows since 2016. 
 
-Special thanks to Cengiz Avci, Samet Aksoy, Şule Nur Topgül, Burak Ekim and Dr. Tolga Bakirman for their active supports.
+Special thanks to Cengiz Avci, Samet Aksoy, Furkan Uysal, Burak Ekim and Dr. Tolga Bakirman for their active supports.
 
 You can also reach us from "remotesensingandai@gmail.com" or directly e-mail to Prof. Sertel from "sertele@itu.edu.tr"
 
