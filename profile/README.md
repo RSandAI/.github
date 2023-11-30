@@ -6,8 +6,6 @@ We  have been sharing repos of our ongoing activities that include our codes and
 
 We have been collaborating with several researchers including Academics, Master/PhD students, and Post-Doctoral fellows since 2016. 
 
-Special thanks to Cengiz Avci, Samet Aksoy, Furkan Uysal, Burak Ekim and Dr. Tolga Bakirman for their active supports.
-
 You can also reach us from "remotesensingandai@gmail.com" or directly e-mail to Prof. Sertel from "sertele@itu.edu.tr"
 
 # Published Articles and Papers
@@ -40,4 +38,10 @@ You can also reach us from "remotesensingandai@gmail.com" or directly e-mail to 
 
 	Tuna, C., Akoguz, A., Unal, G., and Sertel, E. “Resolution enhancement of tri-stereo remote sensing images by super resolution methods”. SPIE Remote Sensing Conference, 26-29 September 2016, Edinburgh, UK. https://doi.org/10.1117/12.2241176.
 
+# Former emmbers of our group
+
+	Peijuan Wang
+	Burak Ekim
+	Cengiz Avcı
+	Furkan Uysal
 
