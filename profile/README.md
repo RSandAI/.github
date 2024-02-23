@@ -10,6 +10,8 @@ You can also reach us from "remotesensingandai@gmail.com" or directly e-mail to 
 
 # Published Articles and Papers
 
+ Bakirman, T., and Sertel, E. (2023). A benchmark dataset for deep learning-based airplane detection: HRPlanes. International Journal of Engineering and Geosciences, 8(3), 212-223. https://doi.org/10.26833/ijeg.1107890
+
 	Wang, P. and Sertel, E. (2023). Multi-Frame Super-resolution of Remote Sensing Images using attention-based GAN models, 110387, Knowledge-Based Systems, https://doi.org/10.1016/j.knosys.2023.110387.
 
 	Wang, P., Bayram, B. & Sertel, E., (2022). A comprehensive review on Deep Learning based Remote Sensing Image Super-Resolution Methods, Earth-Science Reviews, Invited Review Article, vol.232,  104110, https://doi.org/10.1016/j.earscirev.2022.104110.
