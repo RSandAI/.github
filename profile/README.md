@@ -14,7 +14,7 @@ You can also reach us from "remotesensingandai@gmail.com" or directly e-mail to 
 
  Sür, İ. B., Algancı, U., & Sertel, E. (2025). Evaluating the performance of deep learning-based segmentation algorithms for land use land cover mapping in a heterogenous vegetative environment. International Journal of Engineering and Geosciences, 10(3), 380-397. https://doi.org/10.26833/ijeg.1528938
 
- Topgül¸ SN., Sertel, E., Aksoy, S., Ünsalan, C. and Fransson, JES (2024) VHRTrees: a new benchmark dataset for tree detection in satellite imagery and performance evaluation with YOLO-based models. Front. For. Glob. Change 7:1495544. doi: 10.3389/ffgc.2024.1495544.
+ Topgül¸ SN., Sertel, E., Aksoy, S., Ünsalan, C. and Fransson, JES (2024) VHRTrees: a new benchmark dataset for tree detection in satellite imagery and performance evaluation with YOLO-based models. Front. For. Glob. Change 7:1495544. https://doi.org/10.3389/ffgc.2024.1495544.
 
  Sertel, E., Hucko, CM., Kabadayı, ME. Automatic Road Extraction from Historical Maps Using Transformer-Based SegFormers. ISPRS International Journal of Geo-Information. 2024; 13(12):464. https://doi.org/10.3390/ijgi13120464
 
