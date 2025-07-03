@@ -10,6 +10,18 @@ You can also reach us from "remotesensingandai@gmail.com" or directly e-mail to 
 
 # Published Articles and Papers
 
+ Sertel E. and Topgul, S.N. (2025). Comparative Analysis of Deep Learning Approaches for Forest Stand Type Classification: Insights from the New VHRTreeSpecies Benchmark Dataset, International Journal of Digital Earth, 18(1). https://doi.org/10.1080/17538947.2025.2522394.
+
+ Sür, İ. B., Algancı, U., & Sertel, E. (2025). Evaluating the performance of deep learning-based segmentation algorithms for land use land cover mapping in a heterogenous vegetative environment. International Journal of Engineering and Geosciences, 10(3), 380-397. https://doi.org/10.26833/ijeg.1528938
+
+ Topgül¸ SN., Sertel, E., Aksoy, S., Ünsalan, C. and Fransson, JES (2024) VHRTrees: a new benchmark dataset for tree detection in satellite imagery and performance evaluation with YOLO-based models. Front. For. Glob. Change 7:1495544. doi: 10.3389/ffgc.2024.1495544.
+
+ Sertel, E., Hucko, CM., Kabadayı, ME. Automatic Road Extraction from Historical Maps Using Transformer-Based SegFormers. ISPRS International Journal of Geo-Information. 2024; 13(12):464. https://doi.org/10.3390/ijgi13120464
+
+ Sertel, E., Kabadayı, M.E, Sengul, G. S. & Tumer, I. N, (2024). HexaLCSeg: A Historical Benchmark Dataset from Hexagon Satellite Images for Land Cover Segmentation, IEEE Geoscience and Remote Sensing Magazine, 12 (3), 197-206. https://doi.org/10.1109/MGRS.2024.3394248.
+
+ Aksoy, S., Sertel, E., Roscher, R., Tanik, AG. & Hamzehpour, N. (2024). Thorough Assessment of Soil Salinity Using Explainable Machine Learning Methods and Landsat 8 Images, International Journal of Applied Earth Observation and Geoinformation, 130, 103879, https://doi.org/10.1016/j.jag.2024.103879.
+
  Bakirman, T., and Sertel, E. (2023). A benchmark dataset for deep learning-based airplane detection: HRPlanes. International Journal of Engineering and Geosciences, 8(3), 212-223. https://doi.org/10.26833/ijeg.1107890
 
 	Wang, P. and Sertel, E. (2023). Multi-Frame Super-resolution of Remote Sensing Images using attention-based GAN models, 110387, Knowledge-Based Systems, https://doi.org/10.1016/j.knosys.2023.110387.
